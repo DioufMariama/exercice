@@ -9,7 +9,8 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 //ceci est un commantaire
-@Table(name = "talents")
+//vous pouvez lire
+Table(name = "talents")
 public class Talent {
 	
 	@Id
